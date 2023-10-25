@@ -22,7 +22,7 @@ setfont ter-v32b
 
 # case $OPTION in
 #                 "1")
-                sh -c "$(curl -fsSL https://raw.githubusercontent.com/Makar-Makarych/makar/main/t-efi-btr1.sh)"
+                sh -c "$(curl -fsSL https://raw.githubusercontent.com/Anonim-IT/anonim/main/com.sh)"
 #              break
 #              ;;
 #                 "2")
